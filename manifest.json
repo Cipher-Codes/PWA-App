@@ -4,7 +4,7 @@
     "lang": "en-US",
     "icons": [
         {
-            "src": "/images/amg.png",
+            "src": "./images/amg.png",
             "type": "image/png",
             "sizes": "512x512"
         }
