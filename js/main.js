@@ -2,7 +2,7 @@ window.onload = () => {
     'use strict';
     if ('serviceWorker' in navigator) {
         navigator.serviceWorker
-            .register('./sw.js');
+            .register('https://github.com/Cipher-Codes/PWA-App/blob/main/sw.js');
     }
 }
 
